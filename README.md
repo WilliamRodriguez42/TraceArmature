@@ -1,0 +1,1 @@
+![Wireframe Motion Tracking Demo](images/TraceArmatureGIF.gif)
