@@ -1,0 +1,11 @@
+__pycache__
+STAR-master/
+models/
+star_1_1/
+*.jpg
+*.npz
+external_scripts/tmp/
+external_scripts/aabb_filter/build
+external_scripts/aabb_filter/*.so
+external_scripts/aabb_filter/*.pyd
+resources/*
